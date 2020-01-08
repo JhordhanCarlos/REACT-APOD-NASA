@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/REACT-APOD-NASA/static/css/main.19367fca.chunk.css",
+    "main.js": "/REACT-APOD-NASA/static/js/main.40347054.chunk.js",
+    "main.js.map": "/REACT-APOD-NASA/static/js/main.40347054.chunk.js.map",
+    "runtime-main.js": "/REACT-APOD-NASA/static/js/runtime-main.81727a69.js",
+    "runtime-main.js.map": "/REACT-APOD-NASA/static/js/runtime-main.81727a69.js.map",
+    "static/js/2.98933551.chunk.js": "/REACT-APOD-NASA/static/js/2.98933551.chunk.js",
+    "static/js/2.98933551.chunk.js.map": "/REACT-APOD-NASA/static/js/2.98933551.chunk.js.map",
+    "index.html": "/REACT-APOD-NASA/index.html",
+    "precache-manifest.eb99cecc77c7d8d4f2420cd3be03646b.js": "/REACT-APOD-NASA/precache-manifest.eb99cecc77c7d8d4f2420cd3be03646b.js",
+    "service-worker.js": "/REACT-APOD-NASA/service-worker.js",
+    "static/css/main.19367fca.chunk.css.map": "/REACT-APOD-NASA/static/css/main.19367fca.chunk.css.map",
+    "static/js/2.98933551.chunk.js.LICENSE": "/REACT-APOD-NASA/static/js/2.98933551.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81727a69.js",
+    "static/js/2.98933551.chunk.js",
+    "static/css/main.19367fca.chunk.css",
+    "static/js/main.40347054.chunk.js"
+  ]
+}
